@@ -7,7 +7,7 @@ The motivation for this topic and dataset was due to the increasing pressure on 
 ## Findings
 For this assignment, I have chosen three business questions I feel are relevant and slightly challenging to the dataset. I have put myself into three business stakeholders who would be interested in this dataset.
 
-1. As a property investion, I want to know which areas in London that have the most demand and what room types.
+1. As a property investor, I want to know which areas in London that have the most demand and what room types.
 2. As an existing Airbnb host, I want to know if there are keywords in the list description that leads to higher reviews or prices.
 3. As a landlord, I want to know what's the estimated daily price that my property can achieve.
 
