@@ -40,3 +40,32 @@ From my findings, I have found that Westiminster is the most popular location fo
   - This is where the code is stored with the markdown text to explain each graph and my understanding/thoughts. I have a section that is code within a markdown text to prevent slowdown as it is not essential to      answering the business question.
 - **airbnb_listings_london**
   - From the markdown code, it generates a html file which shows a map of all the airbnb listings around London.
+
+## Licensing, Authors and Acknowledgement
+
+- **Data Source**
+  - [InsideAirbnb ](https://insideairbnb.com/about/)
+- **Acknowledgements**
+  - Murray Cox. Murray is a community artist and activist who uses data, media and technology for social change. He is the founder and current chief data activist of      Inside Airbnb.
+- **License**
+- MIT License
+
+Copyright (c) [2024] [Sajid Ahmed]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
